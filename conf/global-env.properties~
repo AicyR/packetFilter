@@ -1,0 +1,15 @@
+#database vendor name
+db.vendor=mysql
+
+#MySQL database driver name
+mysql.db.conn.driver=com.mysql.jdbc.Driver
+
+#MySQL database connection URL
+mysql.db.conn.url=jdbc:mysql://localhost.localdomian:3306/PACKET_FILTER
+
+#MySQL database usernam
+mysql.db.conn.user=admin
+
+#MySQL database password
+mysql.db.conn.password=admin
+
