@@ -17,10 +17,7 @@ import java.sql.Types;
 
 import com.spark.network.util.PropertiesUtil;
 
-/**
- * @author cloudera
- *
- */
+
 public class DatabaseManager {
 
 	private static final Logger LOGGER = LoggerFactory.getLogger(DatabaseManager.class);

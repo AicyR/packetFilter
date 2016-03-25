@@ -1,11 +1,11 @@
 package com.spark.network.filters;
 
 import org.apache.spark.api.java.JavaRDD;
-import org.apache.spark.api.java.JavaSparkContext;
-import org.apache.spark.streaming.api.java.JavaDStream;
 
 import com.spark.network.database.vo.MappingsVO;
 import com.spark.network.packets.UCI;
+import com.spark.network.util.SparkManager;
+
 
 public class PacketHandler {
 	
